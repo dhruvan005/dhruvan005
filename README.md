@@ -15,4 +15,4 @@
 
 ##  Github Stats
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvan12&theme=dark" alt="github-contributed" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvan005&theme=dark" alt="github-contributed" /></p>

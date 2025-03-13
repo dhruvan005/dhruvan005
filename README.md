@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dhruvan_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvan_05" height="30" width="40" /></a>
+
 <a href="https://x.com/PatelDhruvan4" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="dhruvan" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruvan-patel/" target="blank"><img align="center" style="background-color:#ffffff" src="https://img.icons8.com/fluency/50/linkedin.png" alt="linkedin" height="40" width="40" /></a>
 </p>

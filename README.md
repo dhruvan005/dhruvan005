@@ -7,7 +7,7 @@
 📫 How to reach me [✉ ](dhruvanpatel52@gmail.com)
 
 😄 Pronouns:He/Him
-<hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div style="display: flex; gap: 10px;">
@@ -16,7 +16,7 @@
 <a href="https://discordapp.com/users/724829940889026560" target="blank"><img align="center"  src="./assets/discord.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 </div>
-<hr/>
+
 <h3 align="left">Tools & Learnings </h3>
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

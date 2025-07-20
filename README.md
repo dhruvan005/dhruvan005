@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://dhruvanpatel.dev"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dhruvan-patel/"><img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/dhruvan005"><img src="https://img.shields.io/badge/🕊️ Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dhruvanpatel.dev"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/dhruvan-patel/"><img src="https://img.shields.io/badge/💼 LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/dhruvan005"><img src="https://img.shields.io/badge/🕊️ X (Twitter)-000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a> <img src="https://komarev.com/ghpvc/?username=dhruvan005&label=Profile%20Visits&color=blue&style=for-the-badge" /> </a>
 </p>
 
@@ -45,11 +45,12 @@ From building sleek interfaces to designing resilient APIs, I love the entire pr
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
 ### 🔧 Backend  
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![HonoJS](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)

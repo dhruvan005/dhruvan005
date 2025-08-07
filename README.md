@@ -25,7 +25,7 @@ From building sleek interfaces to designing resilient APIs, I love the entire pr
 
 🤝 Open to exciting collaborations!
 
-🌱 Currently exploring: **DevOps Tools** & **Next.js**
+🌱 Currently exploring: **DevOps Tools**
 
 
 > *"Just an ordinary person trying capture moments and craft experiences."*

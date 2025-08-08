@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey! I'm Dhruvan — a passionate developer who enjoys solving meaningful problems through code.  
+Hey! I'm Dhruvan — A self taught developer who enjoys solving meaningful problems through code.  
 From building sleek interfaces to designing resilient APIs, I love the entire process of turning ideas into impactful digital products.
 
 🧠 Focused on: **Performance**, **Clean Code**, and **Scalability**
